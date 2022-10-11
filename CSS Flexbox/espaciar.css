@@ -1,0 +1,14 @@
+.grid {
+  height: 800px;
+  display: flex;
+  /* justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  background-color: red; */
+}
+.course {
+  width: 100px;
+  height: 100px;
+  flex-grow: 1;
+  background-color: aqua;
+}
