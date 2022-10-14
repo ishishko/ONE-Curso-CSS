@@ -1,0 +1,9 @@
+.receta-rescripcion {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.receta__contenido {
+  padding: 1rem;
+}
